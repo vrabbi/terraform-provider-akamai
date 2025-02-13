@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package hash contains convenience functions for calculating hashes.
 package hash
 

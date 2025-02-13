@@ -1,3 +1,5 @@
+# Copyright (c) HashiCorp, Inc.
+
 # This example presents a sample workflow for a third-party enrollment. It creates a basic third-party enrollment,
 # fetches the Certificate Signing Request (CSR) for this enrollment, and then uploads the signed certificate with the `akamai_cps_upload_certificate` resource.
 #

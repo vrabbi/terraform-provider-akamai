@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Copyright (c) HashiCorp, Inc.
+
 
 VERSION="${TERRAFORM_VERSION:-1.9.5}"
 VERSION="${VERSION#v}"

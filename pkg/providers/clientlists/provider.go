@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package clientlists contains implementation for Akamai Terraform sub-provider responsible for creation, deployment, and management of client lists
 package clientlists
 

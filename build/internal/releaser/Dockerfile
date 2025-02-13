@@ -1,3 +1,5 @@
+# Copyright (c) HashiCorp, Inc.
+
 FROM ubuntu:focal
 
 WORKDIR /workspace

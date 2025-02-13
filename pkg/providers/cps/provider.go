@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package cps contains implementation for Akamai Terraform sub-provider responsible for maintaining certificates
 package cps
 

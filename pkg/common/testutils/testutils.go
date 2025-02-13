@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package testutils gathers reusable pieces useful for testing
 package testutils
 

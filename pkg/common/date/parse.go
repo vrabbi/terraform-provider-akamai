@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package date contains logic for handling operations on datetime values.
 package date
 

@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package main allows to run Golang code for Akamai Terraform Provider
 package main
 

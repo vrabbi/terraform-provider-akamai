@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 package property
 
 // This file contains functions removed from resource_akamai_property.go that are still referenced elsewhere

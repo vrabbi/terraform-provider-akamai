@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package testprovider is a package containing a terraform provider for internal testing purposes
 package testprovider
 

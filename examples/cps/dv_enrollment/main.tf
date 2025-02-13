@@ -1,3 +1,5 @@
+# Copyright (c) HashiCorp, Inc.
+
 # This example presents a sample workflow for a DV enrollment. It creates a basic DV enrollment and validates
 # that certificate, so it can be deployed to `STAGING` and `PRODUCTION` networks.
 #

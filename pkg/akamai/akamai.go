@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package akamai allows to initialize and set up Akamai Provider.
 package akamai
 

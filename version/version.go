@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package version allows to handle specific provider version
 package version
 

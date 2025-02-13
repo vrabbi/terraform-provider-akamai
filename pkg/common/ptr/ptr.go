@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package ptr helps with creating pointers to literal values of any type.
 package ptr
 

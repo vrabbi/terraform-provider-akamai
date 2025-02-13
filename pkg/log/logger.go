@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package log contains types and functions related to logging in terraform provider
 package log
 

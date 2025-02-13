@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 package collections
 
 // ForEachInSlice applies the provided function for each element of the slice.

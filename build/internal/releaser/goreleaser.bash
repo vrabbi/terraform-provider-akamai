@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Copyright (c) HashiCorp, Inc.
+
 
 # This script executes a "dry run" simulating what the goreleaser GitHub action does for every release
 # It is executed on last commit from develop branch.

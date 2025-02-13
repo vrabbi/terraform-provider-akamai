@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Copyright (c) HashiCorp, Inc.
+
 # This script will build the provider and associated library after checking out from git on jenkins.
 #
 # It uses the same docker image for all builds unless RELOAD_DOCKER_IMAGE parameter is set true.

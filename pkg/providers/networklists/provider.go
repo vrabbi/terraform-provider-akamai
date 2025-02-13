@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package networklists contains implementation for Akamai Terraform sub-provider responsible for creation, deployment, and management of network lists
 package networklists
 

@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package cloudaccess contains implementation for Akamai Terraform sub-provider responsible for cloud access manager
 package cloudaccess
 

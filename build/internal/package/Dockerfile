@@ -1,3 +1,5 @@
+# Copyright (c) HashiCorp, Inc.
+
 FROM golang:1.22.9-alpine3.19
 
 ENV PROVIDER_VERSION="1.0.0" \

@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package edgeworkers contains implementation for Akamai Terraform sub-provider responsible for maintaining EdgeWorkers functions to dynamically manage web traffic
 package edgeworkers
 

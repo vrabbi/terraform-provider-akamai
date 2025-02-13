@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package ruleformats contains logic required for akamai_property_rules_builder data source.
 package ruleformats
 

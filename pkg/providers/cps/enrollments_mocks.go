@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 package cps
 
 import "github.com/akamai/AkamaiOPEN-edgegrid-golang/v10/pkg/cps"

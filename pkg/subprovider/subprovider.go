@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package subprovider defines contract for a subprovider
 package subprovider
 

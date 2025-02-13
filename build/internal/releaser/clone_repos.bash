@@ -1,3 +1,5 @@
+# Copyright (c) HashiCorp, Inc.
+
 echo "$SSH_KNOWN_HOSTS" >/root/.ssh/known_hosts
 echo "$SSH_PUB_KEY" >/root/.ssh/id_rsa.pub
 echo "$SSH_PRV_KEY" >/root/.ssh/id_rsa

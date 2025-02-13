@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package test contains reusable structure and functions used during testing of sub-providers
 package test
 

@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package iam contains implementation for Akamai Terraform sub-provider responsible for managing identities and accesses
 package iam
 

@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package videowriter contains set of functions used to manage video
 package videowriter
 

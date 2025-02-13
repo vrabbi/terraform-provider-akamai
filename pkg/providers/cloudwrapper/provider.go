@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package cloudwrapper contains implementation for Akamai Terraform sub-provider responsible for cloud wrapper
 package cloudwrapper
 

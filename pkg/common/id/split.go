@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package id contains functions related to processing and formatting of id attributes for terraform resources and data sources
 package id
 

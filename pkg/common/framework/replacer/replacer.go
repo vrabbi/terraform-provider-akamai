@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package replacer ...
 package replacer
 

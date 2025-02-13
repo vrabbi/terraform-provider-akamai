@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (c) HashiCorp, Inc.
+
 
 touch ~/.gitcookies
 chmod 0600 ~/.gitcookies

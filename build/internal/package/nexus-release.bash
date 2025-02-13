@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Copyright (c) HashiCorp, Inc.
+
 
 PACKAGE_NAME=$1
 RELEASE_TYPE=$2

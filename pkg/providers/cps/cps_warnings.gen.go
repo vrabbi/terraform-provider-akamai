@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 package cps
 
 // Content of that file was generated using dxe-tools. Please refer to dxe-tools README for more information.

@@ -1,3 +1,5 @@
+# Copyright (c) HashiCorp, Inc.
+
 cd /workspace/terraform-provider-akamai
 go mod edit -replace github.com/akamai/AkamaiOPEN-edgegrid-golang/v10=../akamaiopen-edgegrid-golang/
 git tag v10.0.0

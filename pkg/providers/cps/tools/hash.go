@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 package tools
 
 import "github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"

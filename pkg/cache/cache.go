@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package cache contains provider's cache instance
 package cache
 

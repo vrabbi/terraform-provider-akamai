@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package appsec contains implementation for Akamai Terraform sub-provider responsible for Application Security
 package appsec
 

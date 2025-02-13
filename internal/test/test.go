@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package test contains utility code used in tests
 package test
 

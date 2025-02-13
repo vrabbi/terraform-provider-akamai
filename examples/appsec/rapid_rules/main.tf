@@ -1,3 +1,5 @@
+# Copyright (c) HashiCorp, Inc.
+
 # This example presents a sample workflow for rapid rules.
 # The `akamai_appsec_rapid_rules` resource enables and configures rapid rules.
 # The `akamai_appsec_rapid_rules` data source returns information about rapid rules, including a name, action, action lock, attack group,

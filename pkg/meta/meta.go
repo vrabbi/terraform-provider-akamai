@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package meta contains code related to provider's meta information
 package meta
 

@@ -1,3 +1,5 @@
+// Copyright (c) HashiCorp, Inc.
+
 // Package str contains useful functions for string manipulation.
 package str
 
